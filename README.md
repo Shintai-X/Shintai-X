@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nizar</h1>
 <h3 align="center">I’m interested in everything related to computre science .</h3>
 
-<div>
+<p>
 <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47p8yrvo57h9msofnyoq7o1h27xuozgpt059n7llrc&rid=giphy.gif&ct=g" />
-</div>
+</p>
 - 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Anything!**
