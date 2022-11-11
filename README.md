@@ -2,7 +2,7 @@
 <h3 align="center">I’m interested in everything related to computre science .</h3>
 
 
-
+<img src="https://img.shields.io/twitter/follow/@mrd_houssam?logo=twitter&style=for-the-badge" alt="@mrd_houssam" />
 - 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Anything!**
