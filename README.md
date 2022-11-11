@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nizar</h1>
 <h3 align="center">I’m interested in everything related to computre science .</h3>
 
-<p align="left"><img src="[https://img.shields.io/twitter/follow/@mrd_houssam?logo=twitter&style=for-the-badge](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47p8yrvo57h9msofnyoq7o1h27xuozgpt059n7llrc&rid=giphy.gif&ct=g)" alt="@mrd_houssam" /></p>
+<p align="left"><img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47p8yrvo57h9msofnyoq7o1h27xuozgpt059n7llrc&rid=giphy.gif&ct=g" alt="@mrd_houssam" /></p>
 
 - 🌱 I’m currently learning **Java**
 
