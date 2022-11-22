@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **seffarnizar.pro@gmail.com**
 
-- ⛔ Some of my repos are on**private** mode! please message me to more information!
+- ⛔ Some of my repos are on **private** mode! please message me to more information!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
