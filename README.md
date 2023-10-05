@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nizar</h1>
-<h3 align="center">I’m interested in everything related to computre science .</h3>
+<h3 align="center">I’m interested in everything related to Cloud/DevOps field .</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47p8yrvo57h9msofnyoq7o1h27xuozgpt059n7llrc&rid=giphy.gif&ct=g">
 
 
