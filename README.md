@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **DevOps** and improving my skills in **Java**
+- 🌱 I’m currently improving my  **DevOps** and **Cloud** skills
 
 - 💬 Ask me about **Anything!**
 
